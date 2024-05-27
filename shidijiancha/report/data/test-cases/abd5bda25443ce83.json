@@ -1,0 +1,150 @@
+{
+  "uid" : "abd5bda25443ce83",
+  "name" : "test_addcheck",
+  "fullName" : "testcases.test_case_01#test_addcheck",
+  "historyId" : "870e87fb4374c2a01abf0856d42aac75",
+  "time" : {
+    "start" : 1716704585442,
+    "stop" : 1716704598209,
+    "duration" : 12767
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1716704583954,
+      "stop" : 1716704585442,
+      "duration" : 1488
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "添加成功截图... ...",
+      "time" : {
+        "start" : 1716704598209,
+        "stop" : 1716704598480,
+        "duration" : 271
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a457037b03ff8952",
+        "name" : "成功截图",
+        "source" : "a457037b03ff8952.png",
+        "type" : "image/png",
+        "size" : 32889
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ {
+      "uid" : "8f659f8c1a3d1a60",
+      "name" : "用例ID",
+      "source" : "8f659f8c1a3d1a60.attach",
+      "type" : "text/plain",
+      "size" : 51
+    }, {
+      "uid" : "d87ba11610680406",
+      "name" : "测试结果",
+      "source" : "d87ba11610680406.attach",
+      "type" : "text/plain",
+      "size" : 21
+    }, {
+      "uid" : "bb5ea5f60cce9382",
+      "name" : "故障表示",
+      "source" : "bb5ea5f60cce9382.attach",
+      "type" : "text/plain",
+      "size" : 19
+    }, {
+      "uid" : "c3622c58643ecd90",
+      "name" : "异常",
+      "source" : "c3622c58643ecd90.attach",
+      "type" : "text/plain",
+      "size" : 13
+    }, {
+      "uid" : "901b8ec7613aa41e",
+      "name" : "用例耗时",
+      "source" : "901b8ec7613aa41e.attach",
+      "type" : "text/plain",
+      "size" : 33
+    }, {
+      "uid" : "d800086d56578b27",
+      "name" : "156597db-ea3a-460c-874c-21679d579dba-attachment.attach",
+      "source" : "d800086d56578b27.attach",
+      "type" : "text/plain",
+      "size" : 38
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 7
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1716704598481,
+      "stop" : 1716704600583,
+      "duration" : 2102
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-J4LMOAT"
+  }, {
+    "name" : "thread",
+    "value" : "17648-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_case_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abd5bda25443ce83.json",
+  "parameterValues" : [ ]
+}

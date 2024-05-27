@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-J4LMOAT",
+    "children" : [ {
+      "name" : "17648-MainThread",
+      "children" : [ {
+        "name" : "test_addspotcheck",
+        "uid" : "4a5fedc40263e38b",
+        "parentUid" : "8127a86033cd4bdee5115d5ff4b2fe26",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1716704583951,
+          "stop" : 1716704583951,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_addcheck",
+        "uid" : "abd5bda25443ce83",
+        "parentUid" : "8127a86033cd4bdee5115d5ff4b2fe26",
+        "status" : "passed",
+        "time" : {
+          "start" : 1716704585442,
+          "stop" : 1716704598209,
+          "duration" : 12767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8127a86033cd4bdee5115d5ff4b2fe26"
+    } ],
+    "uid" : "1aca00eba1704b82a949b9dfaaee616b"
+  } ]
+}

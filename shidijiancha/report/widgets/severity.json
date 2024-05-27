@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4a5fedc40263e38b",
+  "name" : "test_addspotcheck",
+  "time" : {
+    "start" : 1716704583951,
+    "stop" : 1716704583951,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "abd5bda25443ce83",
+  "name" : "test_addcheck",
+  "time" : {
+    "start" : 1716704585442,
+    "stop" : 1716704598209,
+    "duration" : 12767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
